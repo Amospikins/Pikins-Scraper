@@ -349,6 +349,7 @@ namespace Pikin_s_TG_Scrapper
             foreach (DataGridViewRow row in dataGridView1.SelectedRows)
             {
                 dataGridView1.Rows.RemoveAt(row.Index);
+                label4.Text = dataGridView1.Rows.Count.ToString();
             }
         }
     }
