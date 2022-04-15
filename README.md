@@ -9,6 +9,7 @@ Option to scrape only members with username
 option to scrape only members without username
 option to scrape all members
 Export scraped members as csv
+Sessions are saved in bin/sessions
 
 ![2022-04-15](https://user-images.githubusercontent.com/42541682/163561444-4f8582f4-60c4-4df9-bf18-0280ea4ebd2a.png)
 ![2022-04-15 (1)](https://user-images.githubusercontent.com/42541682/163561602-65387896-a4ec-4c10-83bb-a2c631671bf4.png)
