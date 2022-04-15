@@ -29,3 +29,34 @@ C:\Users\sanmc\Documents\Pikin's TG Scrapper\Pikin's TG Scrapper\obj\Debug\net6.
 C:\Users\sanmc\Documents\Pikin's TG Scrapper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\Pikin's TG Scrapper.pdb
 C:\Users\sanmc\Documents\Pikin's TG Scrapper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\Pikin's TG Scrapper.genruntimeconfig.cache
 C:\Users\sanmc\Documents\Pikin's TG Scrapper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\ref\Pikin's TG Scrapper.dll
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\Pikin's TG Scrapper.exe
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\Pikin's TG Scrapper.deps.json
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\Pikin's TG Scrapper.runtimeconfig.json
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\Pikin's TG Scrapper.dll
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\Pikin's TG Scrapper.pdb
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\WTelegramClient.dll
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Design.dll
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Docking.dll
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Navigator.dll
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Workspace.dll
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Design.pdb
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Docking.pdb
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\Pikin's TG Scrapper.csproj.AssemblyReference.cache
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\Pikin_s_TG_Scrapper.Form1.resources
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\Pikin's TG Scrapper.csproj.GenerateResource.cache
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\Pikin's TG Scrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\Pikin's TG Scrapper.AssemblyInfoInputs.cache
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\Pikin's TG Scrapper.AssemblyInfo.cs
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\Pikin's TG Scrapper.csproj.CoreCompileInputs.cache
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\Pikin's TG Scrapper.csproj.CopyComplete
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\Pikin's TG Scrapper.dll
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\refint\Pikin's TG Scrapper.dll
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\Pikin's TG Scrapper.pdb
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\Pikin's TG Scrapper.genruntimeconfig.cache
+C:\Users\sanmc\Documents\Pikins-Scraper\Pikin's TG Scrapper\obj\Debug\net6.0-windows\ref\Pikin's TG Scrapper.dll
