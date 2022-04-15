@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pikin's TG Scrapper", "Pikin's TG Scrapper\Pikin's TG Scrapper.csproj", "{F5B637C2-E630-46B0-901B-43149D71C8DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B637C2-E630-46B0-901B-43149D71C8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B637C2-E630-46B0-901B-43149D71C8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B637C2-E630-46B0-901B-43149D71C8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B637C2-E630-46B0-901B-43149D71C8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1217CF21-357A-49C1-AEDA-3584DB76C687}
+	EndGlobalSection
+EndGlobal

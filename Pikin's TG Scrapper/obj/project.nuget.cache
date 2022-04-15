@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "//On8hZL5k9jF6oP12iboFsUrpVYSyHzMDUofa4X+y8mE8OiL8vIDrfBVDMs/BHtYjRx/HiMWeiv1Vjv41kasA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sanmc\\Documents\\Pikins-Scraper\\Pikin's TG Scrapper\\Pikin's TG Scrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanmc\\.nuget\\packages\\wtelegramclient\\2.3.1\\wtelegramclient.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

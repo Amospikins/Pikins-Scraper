@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "WTelegramClient/2.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/WTelegramClient.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/WTelegramClient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WTelegramClient/2.3.1": {
+      "sha512": "lOHeuobIQAByMOSr1f5zAud86sM7c2v+0hY0t9XQDQ0yzRMaEykW7f6YRCVQmMmWdoYN4UM3w26dX/yfFVMWuQ==",
+      "type": "package",
+      "path": "wtelegramclient/2.3.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net5.0/WTelegramClient.dll",
+        "lib/net5.0/WTelegramClient.xml",
+        "lib/netstandard2.0/WTelegramClient.dll",
+        "lib/netstandard2.0/WTelegramClient.xml",
+        "logo.png",
+        "wtelegramclient.2.3.1.nupkg.sha512",
+        "wtelegramclient.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "WTelegramClient >= 2.3.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sanmc\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sanmc\\Documents\\Pikins-Scraper\\Pikin's TG Scrapper\\Pikin's TG Scrapper.csproj",
+      "projectName": "Pikin's TG Scrapper",
+      "projectPath": "C:\\Users\\sanmc\\Documents\\Pikins-Scraper\\Pikin's TG Scrapper\\Pikin's TG Scrapper.csproj",
+      "packagesPath": "C:\\Users\\sanmc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sanmc\\Documents\\Pikins-Scraper\\Pikin's TG Scrapper\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sanmc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "WTelegramClient": {
+            "target": "Package",
+            "version": "[2.3.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
